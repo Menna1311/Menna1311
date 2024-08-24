@@ -1,4 +1,4 @@
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=Menna1311)
+![](https://komarev.com/ghpvc/?username=Menna1311&color=green)
 
 - 👋 Hi, I’m Menna
 - 🌱 I’m currently learning Flutter
