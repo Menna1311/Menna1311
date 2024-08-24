@@ -1,3 +1,5 @@
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=Menna1311)
+
 - 👋 Hi, I’m Menna
 - 🌱 I’m currently learning Flutter
  <p align="center">
